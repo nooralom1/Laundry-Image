@@ -18,4 +18,12 @@
      https://github.com/user-attachments/assets/0b280243-9c00-4e96-90a6-36903b248190
      https://github.com/user-attachments/assets/83f15f3b-8fd1-4205-b088-5c453a3bad6e
 }
+
+
+#Wash List{
+![1](https://github.com/user-attachments/assets/326b42f7-01e1-45b6-b4d8-41aa5cb2bc42)
+
+
+
+}
 }
