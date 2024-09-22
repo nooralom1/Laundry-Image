@@ -41,47 +41,17 @@ https://github.com/user-attachments/assets/83f15f3b-8fd1-4205-b088-5c453a3bad6e
 }
 
 
-#Wash List{
+#Wash,DryCleaning,Iron List{
 
-https://github.com/user-attachments/assets/01721f44-4a1c-456a-9003-f26aae442bb7
+https://github.com/user-attachments/assets/5f13d8f7-c373-4ad3-a690-c82b411818c5
 
-https://github.com/user-attachments/assets/142118df-5b7c-4336-9a5f-46b680f59b20
+https://github.com/user-attachments/assets/d55b76e6-7918-4f11-b4e3-fe67ab54764b
 
-https://github.com/user-attachments/assets/604ce417-8d2e-4306-a6b1-3cbacfa961d5
+https://github.com/user-attachments/assets/d2a85b64-b6ff-4273-bbdd-3c02ecc33f80
 
-https://github.com/user-attachments/assets/5f60fa9e-346b-431d-8a54-b9b9117bc3b4
+https://github.com/user-attachments/assets/4d2fe0eb-9c8b-4013-905c-e3ec88a939da
 
-https://github.com/user-attachments/assets/5fa5c75a-2fe4-4c6b-a864-e89d3eca7abe
-
-}
-
-
-#DryClean List{
-
-https://github.com/user-attachments/assets/8f3c3fb8-71e2-4597-833a-6f6f6feea707
-
-https://github.com/user-attachments/assets/3741cbf2-1400-4c7b-8d84-68faea57627a
-
-https://github.com/user-attachments/assets/374ba7cf-68a3-44a4-b8e6-d6ffdadd4392
-
-https://github.com/user-attachments/assets/591689e5-adcf-40c7-9ce2-dcf4924e99d1
-
-https://github.com/user-attachments/assets/28b0c7a3-9549-40c0-97ce-009db71bdecf
-
-}
-
-
-#Iron List{
-
-https://github.com/user-attachments/assets/9700e4df-18bc-4f6c-b18b-0e26a54fc66d
-
-https://github.com/user-attachments/assets/555ec5ae-f258-45f1-babd-cc1da280fa44
-
-https://github.com/user-attachments/assets/8b4015e0-d774-4d7e-a528-5438764a6879
-
-https://github.com/user-attachments/assets/0498615b-6d3e-4c5a-bf47-52adff116170
-
-https://github.com/user-attachments/assets/a6b4e122-0e83-4ecb-bed9-f41fd576b297
+https://github.com/user-attachments/assets/6e0b4163-23ff-4027-896b-6548b9d32b9a
 
 }
 }
