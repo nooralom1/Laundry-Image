@@ -20,7 +20,13 @@
 }
 
 
-#Wash List{![1](https://github.com/user-attachments/assets/01721f44-4a1c-456a-9003-f26aae442bb7)![2](https://github.com/user-attachments/assets/142118df-5b7c-4336-9a5f-46b680f59b20)![3](https://github.com/user-attachments/assets/604ce417-8d2e-4306-a6b1-3cbacfa961d5)![4](https://github.com/user-attachments/assets/5f60fa9e-346b-431d-8a54-b9b9117bc3b4)![5](https://github.com/user-attachments/assets/5fa5c75a-2fe4-4c6b-a864-e89d3eca7abe)}
+#Wash List{
+https://github.com/user-attachments/assets/01721f44-4a1c-456a-9003-f26aae442bb7
+https://github.com/user-attachments/assets/142118df-5b7c-4336-9a5f-46b680f59b20
+https://github.com/user-attachments/assets/604ce417-8d2e-4306-a6b1-3cbacfa961d5
+https://github.com/user-attachments/assets/5f60fa9e-346b-431d-8a54-b9b9117bc3b4
+https://github.com/user-attachments/assets/5fa5c75a-2fe4-4c6b-a864-e89d3eca7abe
+}
 
 
 #DryClean List{
