@@ -22,11 +22,15 @@ https://github.com/user-attachments/assets/02891da4-44dc-46fa-8a8d-6bdac87f254d
 
 
 #Daily use clothes{
-     https://github.com/user-attachments/assets/cf3adc18-9c8a-4d84-b7a4-12fea35b897f
-     https://github.com/user-attachments/assets/a13c4cc6-8b52-4fc8-8b38-b4d68021cbc3
-     https://github.com/user-attachments/assets/3f65400e-4ed7-4fbe-990c-1a84a31ed5d1
-     https://github.com/user-attachments/assets/0b280243-9c00-4e96-90a6-36903b248190
-     https://github.com/user-attachments/assets/83f15f3b-8fd1-4205-b088-5c453a3bad6e
+https://github.com/user-attachments/assets/cf3adc18-9c8a-4d84-b7a4-12fea35b897f
+
+https://github.com/user-attachments/assets/a13c4cc6-8b52-4fc8-8b38-b4d68021cbc3
+
+https://github.com/user-attachments/assets/3f65400e-4ed7-4fbe-990c-1a84a31ed5d1
+
+https://github.com/user-attachments/assets/0b280243-9c00-4e96-90a6-36903b248190
+
+https://github.com/user-attachments/assets/83f15f3b-8fd1-4205-b088-5c453a3bad6e
 }
 
 
