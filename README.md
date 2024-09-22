@@ -21,7 +21,7 @@
 
 
 #Wash List{
-![1](https://github.com/user-attachments/assets/326b42f7-01e1-45b6-b4d8-41aa5cb2bc42)
+![1](https://github.com/user-attachments/assets/326b42f7-01e1-45b6-b4d8-41aa5cb2bc42)![2](https://github.com/user-attachments/assets/142118df-5b7c-4336-9a5f-46b680f59b20)
 
 
 
